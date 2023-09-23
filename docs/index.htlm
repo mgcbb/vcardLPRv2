@@ -6,7 +6,7 @@
 <body>
     <h1>Fiches de contact</h1>
     <ul>
-        <li><a href="docs/vCardMathilde.vcf">Mathilde Thonon</a></li>
+        <li><a href="docs/Mathilde_Thonon.vcf">Mathilde Thonon</a></li>
         <!-- Ajoutez d'autres liens pour chaque membre -->
     </ul>
 </body>
