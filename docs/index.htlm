@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fiches de contact</title>
+</head>
+<body>
+    <h1>Fiches de contact</h1>
+    <ul>
+        <li><a href="docs/vCardMathilde.vcf">Mathilde Thonon</a></li>
+        <!-- Ajoutez d'autres liens pour chaque membre -->
+    </ul>
+</body>
+</html>
