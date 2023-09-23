@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mathilde Thonon
+N:Thonon;Mathilde;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:mathilde@lespetitesrivieres.com
+TEL;TYPE=WORK:06 63 57 86 48
+item1.ORG:Les Petites Rivières
+item1.X-ABLabel:
+item2.TITLE:Consultante Sénior
+item2.X-ABLabel:
+URL;TYPE=WORK:https\://lespetitesrivieres.com
+PHOTO:https://lh3.googleusercontent.com/contacts/ADUEL1yUmYrdXW7viU73iQ5kQ2
+ c9W_znZC-DgCACkm40yF8oPBXMkNCM
+CATEGORIES:myContacts
+END:VCARD
