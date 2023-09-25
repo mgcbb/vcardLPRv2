@@ -2,13 +2,12 @@ BEGIN:VCARD
 VERSION:4.0
 N:Thonon;Mathilde;;;
 FN:Mathilde Thonon
-NICKNAME:Consultante Senior
 PHOTO:https://www.linkedin.com/in/mathilde-thonon-15186b131/overlay/photo/
-ORG:Les Petites Rivières
+ORG:Les Petites Rivieres
 TITLE:Consultante Senior
 LOGO:https://lespetitesrivieres.com/wp-content/uploads/thegem-logos/logo_f230b6f0df178c21ad22aa61ae6d38a1_2x.png
 TEL;TYPE=work:+33663578648
 EMAIL;TYPE=work:mathilde@lespetitesrivieres.com
 URL;TYPE=work:https://lespetitesrivieres.com
-ADR;TYPE=work:;;10 Av. Secrétan;Paris;;75019;France
+ADR;TYPE=work:;;10 Av. Secretan;Paris;;75019;France
 END:VCARD
