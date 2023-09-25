@@ -1,29 +1,4 @@
-# Nom du site
+# Configuration générale
 title: vCard Les Petites Rivieres
-
-# URL de base (facultatif)
-baseurl: /
-
-# Langue principale
+baseurl: /docs # Spécifiez le sous-répertoire ici
 lang: fr
-
-# Configuration de permaliens (facultatif)
-permalink: /:title/
-
-# Configurations du thème (le cas échéant)
-theme: jekyll-theme-minimal
-
-# Plugins Jekyll (le cas échéant)
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-
-# Configuration des variables globales (le cas échéant)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "MGC"
