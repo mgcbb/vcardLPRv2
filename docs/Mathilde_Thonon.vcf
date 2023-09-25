@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:4.0
 N:Thonon;Mathilde;;;
 FN:Mathilde Thonon
-PHOTO:https://mgcbb.github.io/vcardLPRv2/images/PP_Mathilde.jpeg
+PHOTO;ENCODING=b;TYPE=JPEG:https://mgcbb.github.io/vcardLPRv2/images/PP_Mathilde.jpeg
 ORG:Les Petites Rivieres
 TITLE:Consultante Senior
 LOGO:https://lespetitesrivieres.com/wp-content/uploads/thegem-logos/logo_f230b6f0df178c21ad22aa61ae6d38a1_2x.png
